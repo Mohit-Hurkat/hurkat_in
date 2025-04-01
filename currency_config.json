@@ -1,8 +1,8 @@
 {
     "USD_INR": 83.2,
-    "USD_JPY": 150.0,
-    "JPY_INR": 0.63,
+    "USD_YEN": 150.0,
+    "YEN_INR": 0.63,
     "INR_USD": 0.01202,
-    "JPY_USD": 0.00667,
-    "INR_JPY": 1.74
+    "YEN_USD": 0.00667,
+    "INR_YEN": 1.74
 }
